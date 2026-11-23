@@ -1,0 +1,10 @@
+{
+  "markdown.editor.quickSuggestions": true,
+  "emmet.useInlineCompletions": true,
+  "editor.quickSuggestions": {
+    "other": "offWhenInlineCompletions",
+    "comments": "off",
+    "strings": "off"
+  },
+  "editor.inlineSuggest.edits.showCollapsed": true
+}
